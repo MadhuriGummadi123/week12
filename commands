@@ -1,0 +1,8 @@
+mkdir mypro
+cd mypro
+pip install django
+django-admin startproject myapp
+cd myapp
+code .
+check managed
+python manage.py runserver
